@@ -1,0 +1,14 @@
+.colors {
+  height: 500px;
+  width: auto;
+}
+div {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
